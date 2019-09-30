@@ -21,3 +21,4 @@ C:\Users\dhickey\source\repos\StarShipNumberOfStopsCalculator\ConsoleAppSW\obj\D
 C:\Users\dhickey\source\repos\StarShipNumberOfStopsCalculator\ConsoleAppSW\obj\Debug\StarshipNumberOfStopsCalculator.csproj.CopyComplete
 C:\Users\dhickey\source\repos\StarShipNumberOfStopsCalculator\ConsoleAppSW\obj\Debug\ConsoleAppSW.exe
 C:\Users\dhickey\source\repos\StarShipNumberOfStopsCalculator\ConsoleAppSW\obj\Debug\ConsoleAppSW.pdb
+C:\Users\dhickey\source\repos\StarShipNumberOfStopsCalculator\ConsoleAppSW\obj\Debug\StarshipNumberOfStopsCalculator.csprojAssemblyReference.cache

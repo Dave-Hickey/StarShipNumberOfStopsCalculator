@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppSW
 {
-  public static class RunStarshipNuberOfStopsCalculator
+  public static class RunStarshipNumberOfStopsCalculator
   {
     public static async Task Run()
     {

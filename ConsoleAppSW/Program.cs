@@ -12,7 +12,7 @@ namespace ConsoleAppSW
   {
     static async Task Main(string[] args)
     {
-      await RunStarshipNuberOfStopsCalculator.Run();
+      await RunStarshipNumberOfStopsCalculator.Run();
     }   
   }
 }

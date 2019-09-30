@@ -51,7 +51,7 @@
   <ItemGroup>
     <Compile Include="CalculateResupplyCost.cs" />
     <Compile Include="CalculateNumberOfStops.cs" />
-    <Compile Include="RunStarshipNuberOfStopsCalculator.cs" />
+    <Compile Include="RunStarshipNumberOfStopsCalculator.cs" />
     <Compile Include="Models\StarshipModel.cs" />
     <Compile Include="Models\StarshipRequestModel.cs" />
     <Compile Include="Program.cs" />
